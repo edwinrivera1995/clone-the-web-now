@@ -14,7 +14,7 @@ const HeroSection = () => {
     {
       icon: <Linkedin className="w-5 h-5" />,
       label: "LinkedIn",
-      href: "https://www.linkedin.com/in/edwin-rivera-823473330",
+      href: "https://www.linkedin.com/in/edwin-rivera-a06181381",
     },
     {
       icon: <Github className="w-5 h-5" />,
@@ -75,7 +75,7 @@ const HeroSection = () => {
               </div>
               <div className="flex justify-between">
                 <span className="text-gray-300">Address:</span>
-                <span className="text-white">Villa Rica, Georgia</span>
+                <span className="text-white">Ephrata, Pennsylvania</span>
               </div>
               <div className="flex justify-between">
                 <span className="text-gray-300">E-mail:</span>

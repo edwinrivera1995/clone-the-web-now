@@ -7,7 +7,7 @@ const ContactSection = () => {
     {
       icon: <MapPin className="w-5 h-5" />,
       label: "Address",
-      value: "Villa Rica, Georgia"
+      value: "Ephrata, Pennsylvania"
     },
     {
       icon: <Mail className="w-5 h-5" />,
@@ -22,7 +22,7 @@ const ContactSection = () => {
   ];
 
   const socialLinks = [
-    { icon: <Linkedin className="w-5 h-5" />, label: "LinkedIn", href: "https://www.linkedin.com/in/edwin-rivera-823473330" },
+    { icon: <Linkedin className="w-5 h-5" />, label: "LinkedIn", href: "https://www.linkedin.com/in/edwin-rivera-a06181381" },
     { icon: <Github className="w-5 h-5" />, label: "GitHub", href: "https://github.com/edwinrivera1995" },
     { icon: <Facebook className="w-5 h-5" />, label: "Facebook", href: "https://www.facebook.com/" },
   ];
