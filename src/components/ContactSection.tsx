@@ -17,7 +17,7 @@ const ContactSection = () => {
     {
       icon: <Phone className="w-5 h-5" />,
       label: "Phone",
-      value: "+1 (470) 962 9255"
+      value: "+1 (717) 882 0918"
     }
   ];
 
