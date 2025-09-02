@@ -14,7 +14,7 @@ const HeroSection = () => {
     {
       icon: <Linkedin className="w-5 h-5" />,
       label: "LinkedIn",
-      href: "https://www.linkedin.com/in/edwin-rivera-a06181381",
+      href: "https://www.linkedin.com/in/edwin-rivera-11ba972a",
     },
     {
       icon: <Github className="w-5 h-5" />,
